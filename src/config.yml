@@ -1,0 +1,8 @@
+# TalkBack config
+# See http://dev.bukkit.org/talkback/ for more info.
+# Everything must be lowercase.
+# Use +'s as spaces in your words.
+# Example-message: can+i+have+op: '&cNo you cannot have op.'
+# Example-command: can+i+have+op: '/kick %player &cNo you cannot have op.'
+talkback: '&d[Server]'
+words: {}
